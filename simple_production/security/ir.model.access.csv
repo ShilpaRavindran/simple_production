@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_simple_production_manager,access.simple.production.manager,model_simple_production,base.group_user,1,1,1,1
+access_production_component_manager,access.production.component.manager,model_production_component,base.group_user,1,1,1,1
+access_production_component_line_manager,access.production.component.line.manager,model_production_component_line,base.group_user,1,1,1,1
+access_production_line_manager,access.production.line.manager,model_production_line,base.group_user,1,1,1,1
